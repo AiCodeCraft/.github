@@ -14,7 +14,7 @@ While many of our teams work behind the scenes to develop bespoke solutions for 
 
 ## Contact
 
-Visit our website at [aicodecraft.io](https://aicodecraft.io) to learn more about our work and get in touch with us. We look forward to hearing from you and working together to shape a better future through technology.
+Visit our website soon at [aicodecraft.io](https://aicodecraft.io) to learn more about our work and get in touch with us. We look forward to hearing from you and working together to shape a better future through technology.
 
 --- 
 
