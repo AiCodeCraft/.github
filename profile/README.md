@@ -20,3 +20,8 @@ Visit our website soon at [aicodecraft.io](https://aicodecraft.io) to learn more
 
 *AiCodecraft - AI with Ethics and Excellence.*
 
+## Papers:
+- [Implementing AI-Systems-Whitepaper ](https://github.com/VolkanSah//Implementing-AI-Systems-Whitepaper/)
+- [GPT-Security-Best-Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
+- [Exploring the Code Interpreter in OpenAI (GPT)](https://github.com/VolkanSah//The-Code-Interpreter-in-OpenAI-GPT/)
+
