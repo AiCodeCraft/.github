@@ -20,16 +20,23 @@ Visit our website soon at [aicodecraft.io](https://aicodecraft.io) to learn more
 
 *AiCodecraft - AI with Ethics and Excellence.*
 
-## Papers:
+## Papers
 
-- [Implementing AI Systems](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Implementing-AI-Systems-Whitepaper) | [This Link](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/)
-- [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices) | ![Stars](https://img.shields.io/github/stars/VolkanSah/GPT-Security-Best-Practices) | [This Link](https://github.com/VolkanSah/GPT-Security-Best-Practices)
-- [Exploring the Code Interpreter in OpenAI (GPT)](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-GPT/) | ![Stars](https://img.shields.io/github/stars/VolkanSah/The-Code-Interpreter-in-OpenAI-GPT) | [This Link](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-GPT/)
+Name | Stars | Link
+-- | -- | ---
+Implementing AI Systems | ![Stars](https://img.shields.io/github/stars/VolkanSah/Implementing-AI-Systems-Whitepaper) | [Link to](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/)
+GPT Security Best Practices | ![Stars](https://img.shields.io/github/stars/VolkanSah/GPT-Security-Best-Practices) | [Link to](https://github.com/VolkanSah/GPT-Security-Best-Practices)
+Exploring the Code Interpreter in OpenAI (GPT) | ![Stars](https://img.shields.io/github/stars/VolkanSah/The-Code-Interpreter-in-OpenAI-GPT) | [Link to](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-GPT/)
 
 ## Good to know 😃
 
-- [Python Modules Overview](https://github.com/VolkanSah/Python-Modules-Overview) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Modules-Overview) | [This Link](https://github.com/VolkanSah/Python-Modules-Overview)
-- [Python XPath and CSS Selectors](https://github.com/VolkanSah/Python-XPath-Tutorial) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-XPath-Tutorial) | [This Link](https://github.com/VolkanSah/Python-XPath-Tutorial)
-- [Python Command Overview for handling files](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Command-Overview-for-handling-files) | [This Link](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
+Name | Stars | Link
+-- | -- | ---
+Python Modules Overview | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Modules-Overview) | [Link to](https://github.com/VolkanSah/Python-Modules-Overview)
+Python XPath and CSS Selectors | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-XPath-Tutorial) | [Link to](https://github.com/VolkanSah/Python-XPath-Tutorial)
+Python Command Overview for handling files | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Command-Overview-for-handling-files) | [Link to](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
+
+*Let's pull together*
+
 
 *Let's pull together*
