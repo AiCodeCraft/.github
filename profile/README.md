@@ -1,6 +1,6 @@
 # Welcome to AiCodecraft
 
-![AiCodecraft Logo](link_to_logo.png)
+![AiCodecraft Logo](profile/assets/markdown/img/aicodecraft-git.webp)
 
 We are a community of AI enthusiasts, security administrators, web developers, and more, dedicated to crafting AI-driven solutions. Our mission is to develop high-quality technology that is not only effective but also ethical and clean.
 
