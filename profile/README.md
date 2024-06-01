@@ -22,15 +22,14 @@ Visit our website soon at [aicodecraft.io](https://aicodecraft.io) to learn more
 
 ## Papers:
 
-- [Implementing AI-Systems-Whitepaper ](https://github.com/VolkanSah//Implementing-AI-Systems-Whitepaper/)
-- [GPT-Security-Best-Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
-- [Exploring the Code Interpreter in OpenAI (GPT)***](https://github.com/VolkanSah//The-Code-Interpreter-in-OpenAI-GPT/)
+- [Implementing AI-Systems-Whitepaper ](https://github.com/VolkanSah//Implementing-AI-Systems-Whitepaper/) ![Stars](https://img.shields.io/github/stars/VolkanSah/Implementing-AI-Systems-Whitepaper)
+- [GPT-Security-Best-Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices) ![Stars](https://img.shields.io/github/stars/VolkanSah/GPT-Security-Best-Practices)
+- [Exploring the Code Interpreter in OpenAI (GPT)](https://github.com/VolkanSah//The-Code-Interpreter-in-OpenAI-GPT/) ![Stars](https://img.shields.io/github/stars/VolkanSah/The-Code-Interpreter-in-OpenAI-GPT)
 
-  ## Good to know 😃
-  
-- [Python Modules Overview](https://github.com/VolkanSah/Python-Modules-Overview)
-- [Python XPath and CSS Selectors](https://github.com/VolkanSah/Python-XPath-Tutorial)
-- [Python Command Overview for handling files](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
+## Good to know 😃
 
-  *Let`s pull together*
+- [Python Modules Overview](https://github.com/VolkanSah/Python-Modules-Overview) ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Modules-Overview)
+- [Python XPath and CSS Selectors](https://github.com/VolkanSah/Python-XPath-Tutorial) ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-XPath-Tutorial)
+- [Python Command Overview for handling files](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files) ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Command-Overview-for-handling-files)
 
+*Let's pull together*
