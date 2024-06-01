@@ -35,7 +35,7 @@ Exploring the Code Interpreter in OpenAI (GPT) | ![Stars](https://img.shields.io
 
 *Let's pull together*
 
-|||---|||
+||---||
 ## Starting Points ...
 
 Name | Stars | Link
@@ -55,4 +55,4 @@ the page layout.
 
 trendy.
 ***
-|||---|||
+||---||
