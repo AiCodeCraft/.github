@@ -1,5 +1,5 @@
 ![AiCodecraft Logo](profile/assets/markdown/img/aicodecraft-git.webp)
-# Welcome to AiCodecraft 💻
+# Welcome to AiCodecraft
 
 **A hub for ethical AI, web development, and digital innovation.**
 
