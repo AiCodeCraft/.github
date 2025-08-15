@@ -1,4 +1,4 @@
-![AiCodecraft Logo](profile/assets/markdown/img/aicodecraft-git.webp)
+![AiCodecraft Logo](https://github.com/AiCodeCraft/.github/blob/main/profile/assets/markdown/img/aicodecraft-git.webp)
 # Welcome to AiCodecraft
 
 **A hub for ethical AI, web development, and digital innovation.**
