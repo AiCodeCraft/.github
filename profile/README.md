@@ -35,9 +35,10 @@ Let's build something great together.
 
 -----
 
-*AiCodecraft - AI with Ethics and Excellence.*
-**Made with Love and AI. ✨**
-For more stuff : visit my freaky account: [Volkan Sah](https://volkan.github.com) just for a :star: 😙 
+**AiCodecraft - AI with Ethics and Excellence**
+> Crafted with Love, Driven by AI. ✨
+
+Need a break from AI-driven projects? Find my human-only work here: [Volkan Sah](https://volkan.github.com) just for a :star: 😙 
 
 ### Have a look on this it will help you!
 - [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview/)
