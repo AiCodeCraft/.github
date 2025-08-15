@@ -29,7 +29,7 @@ If you're new to AI-driven development or just want to see what tools are out th
 
 My work here follows a simple rule: **Code with purpose, build with ethics.**
 
-I believe AI is a tool, and like any tool, it's about how you use it. From building the sleek **OnionHosting** theme to crafting security best practices, every project is a step towards a more transparent and responsible digital future. You can find all my public projects [here on my GitHub profile](https://github.com/VolkanSah).
+I believe AI is a tool, and like any tool, it's about how you use it. From building the sleek **Hosting** theme to crafting security best practices, every project is a step towards a more transparent and responsible digital future.
 
 Let's build something great together.
 
