@@ -1,33 +1,38 @@
 ![AiCodecraft Logo](profile/assets/markdown/img/aicodecraft-git.webp)
-# Welcome to AiCodecraft
-We are a community of AI enthusiasts, security administrators, web developers, and more, dedicated to crafting AI-driven solutions. Our mission is to develop high-quality technology that is not only effective but also ethical and clean.
+# Welcome to AiCodecraft 💻
 
-## About Us
+**A hub for ethical AI, web development, and digital innovation.**
 
-At AiCodecraft, we believe in the power of collaboration and knowledge sharing. Our team consists of talented individuals from various backgrounds who have come together to develop innovative solutions and push the boundaries of AI. From creating security solutions to designing user-friendly web applications, we strive for excellence in everything we do.
+I'm building something I believe in, and I know I'm not the only one. AiCodecraft is my personal workshop—a place where I explore the intersection of AI, security, and web development. Like many of you, I've seen projects lose steam when the team fades away. That's why I'm focusing on an open, transparent process and sharing everything I learn.
 
-## Our Projects
+Here, I publish all the themes, code snippets, and solutions I've built with AI. This isn't just a collection of repos; it's a living log of my work, a resource for fellow builders, and a place to showcase what's possible with ethical, powerful AI tools.
 
-While many of our teams work behind the scenes to develop bespoke solutions for our clients, we also have public projects that reflect our philosophy and commitment to quality and ethics. Through our public projects, we aim not only to share our expertise but also to contribute to strengthening the AI community and raising awareness about the importance of ethical technology.
+-----
 
-## Contact
+## Your AI Toolkit: A Starting Guide
 
-Visit our website soon at [aicodecraft.io](https://aicodecraft.io) to learn more about our work and get in touch with us. We look forward to hearing from you and working together to shape a better future through technology.
+If you're new to AI-driven development or just want to see what tools are out there, I've compiled a quick reference guide to the key players in the AI space. These are the tools I use and trust for my own projects.
 
---- 
+| AI Model/Platform | Description & Use Case | Official Documentation & API |
+| :--- | :--- | :--- |
+| **Google Gemini** | A powerful, multimodal AI for complex tasks, from code generation to creative writing. | [Link to Gemini Docs](https://ai.google.dev/docs) |
+| **OpenAI (GPT)** | The standard-bearer for conversational AI, well-known for its strong language and coding capabilities. | [Link to OpenAI Docs](https://platform.openai.com/docs/introduction) |
+| **Mistral AI** | A European company known for its focus on highly efficient and open models. Great for performance-sensitive tasks. | [Link to Mistral Docs](https://docs.mistral.ai/) |
+| **Deepseek** | A strong, open-source model with a focus on code and programming-related tasks. | [Link to Deepseek GitHub](https://github.com/deepseek-ai) |
+| **Anthropic (Claude)** | Known for its ethical principles and long context windows, excellent for analyzing long documents or books. | [Link to Claude Docs](https://docs.anthropic.com/) |
+| **Llama (Meta)** | A series of open-source models released by Meta, popular for local development and research. | [Link to Llama Docs](https://www.google.com/search?q=https://llama.meta.com/llama3) |
+
+-----
+
+## Philosophy & Projects
+
+My work here follows a simple rule: **Code with purpose, build with ethics.**
+
+I believe AI is a tool, and like any tool, it's about how you use it. From building the sleek **OnionHosting** theme to crafting security best practices, every project is a step towards a more transparent and responsible digital future. You can find all my public projects [here on my GitHub profile](https://github.com/VolkanSah).
+
+Let's build something great together.
+
+-----
 
 *AiCodecraft - AI with Ethics and Excellence.*
-
-## Starting Points ...
-Name | Forks | Stars | Link to it
--- | -- | --- | ---
-Implementing AI Systems | ![Forks](https://img.shields.io/github/forks/VolkanSah/Implementing-AI-Systems-Whitepaper) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Implementing-AI-Systems-Whitepaper) | [Link to](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/)
-Python Modules Overview | ![Forks](https://img.shields.io/github/forks/VolkanSah/Python-Modules-Overview) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Modules-Overview) | [Link to](https://github.com/VolkanSah/Python-Modules-Overview)
-Python XPath and CSS Selectors | ![Forks](https://img.shields.io/github/forks/VolkanSah/Python-XPath-Tutorial) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-XPath-Tutorial) | [Link to](https://github.com/VolkanSah/Python-XPath-Tutorial)
-Python Command Overview for handling files | ![Forks](https://img.shields.io/github/forks/VolkanSah/Python-Command-Overview-for-handling-files) | ![Stars](https://img.shields.io/github/stars/VolkanSah/Python-Command-Overview-for-handling-files) | [Link to](https://github.com/VolkanSah/Python-Command-Overview-for-handling-files)
-GPT Security Best Practices | ![Forks](https://img.shields.io/github/forks/VolkanSah/GPT-Security-Best-Practices) | ![Stars](https://img.shields.io/github/stars/VolkanSah/GPT-Security-Best-Practices) | [Link to](https://github.com/VolkanSah/GPT-Security-Best-Practices)
-Exploring the Code Interpreter in OpenAI (GPT) | ![Forks](https://img.shields.io/github/forks/VolkanSah/The-Code-Interpreter-in-OpenAI-GPT) | ![Stars](https://img.shields.io/github/stars/VolkanSah/The-Code-Interpreter-in-OpenAI-GPT) | [Link to](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-GPT/)
-
-
-
-*Let's pull together*
+**Made with Love and AI. ✨**
