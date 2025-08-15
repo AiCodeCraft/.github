@@ -1,11 +1,10 @@
-![AiCodecraft Logo](profile/assets/markdown/img/aicodecraft-git.webp)
-# Welcome to AiCodecraft 💻
+# Welcome to AiCodecraft
 
 **A hub for ethical AI, web development, and digital innovation.**
 
-I'm building something I believe in, and I know I'm not the only one. AiCodecraft is my personal workshop—a place where I explore the intersection of AI, security, and web development. Like many of you, I've seen projects lose steam when the team fades away. That's why I'm focusing on an open, transparent process and sharing everything I learn.
+As Rick Sanchez once said: "I'm a scientist; because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it\!" While he might have stolen my motto, it's okay—he's freaky enough to use it. 😄
 
-Here, I publish all the themes, code snippets, and solutions I've built with AI. This isn't just a collection of repos; it's a living log of my work, a resource for fellow builders, and a place to showcase what's possible with ethical, powerful AI tools.
+I love exploring, I love tools, and yes, AI is a tool, too. I love to battle with them in abstract coding challenges. It's a lot of fun, but sometimes it gets a little crazy. That's why I decided to publish my work with trained LLMs, MLs, and other AI-related projects here, away from my main account. On my main profile, I focus on the serious reality of my professional work. Here at AiCodecraft, it's a project for teaching and learning from AI. I would be honored if you want to travel with me on this awesome journey.
 
 -----
 
@@ -28,11 +27,13 @@ If you're new to AI-driven development or just want to see what tools are out th
 
 My work here follows a simple rule: **Code with purpose, build with ethics.**
 
-I believe AI is a tool, and like any tool, it's about how you use it. From building the sleek **OnionHosting** theme to crafting security best practices, every project is a step towards a more transparent and responsible digital future. You can find all my public projects [here on my GitHub profile](https://github.com/VolkanSah).
-
-Let's build something great together.
+I believe AI is a tool, and like any tool, it's about how you use it. From building the sleek **OnionHosting** theme to crafting security best practices, every project is a step towards a more transparent and responsible digital future.
 
 -----
 
-*AiCodecraft - AI with Ethics and Excellence.*
-**Made with Love and AI. ✨**
+AiCodecraft - AI with Ethics and Excellence.
+Crafted with Love, Driven by AI. ✨
+
+Need a break from AI-driven projects? Find my human-only work here: [Volkan Sah](https://www.google.com/search?q=https://volkan.github.io).
+
+**If you like what you see, give us a :star: It shows my AI partners and me that our work is clean and on the right track.**
