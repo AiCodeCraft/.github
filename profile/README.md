@@ -1,45 +1,44 @@
 ![AiCodecraft Logo](https://github.com/AiCodeCraft/.github/blob/main/profile/assets/markdown/img/aicodecraft-git.webp)
+
 # Welcome to AiCodecraft
 
 **A hub for ethical AI, web development, and digital innovation.**
 
-I'm building something I believe in, and I know I'm not the only one. AiCodecraft is my personal workshop—a place where I explore the intersection of AI, security, and web development. Like many of you, I've seen projects lose steam when the team fades away. That's why I'm focusing on an open, transparent process and sharing everything I learn.
+AiCodecraft is my personal workshop—a place where I explore the intersection of AI, security, and web development. Everything here is shared openly: code snippets, themes, solutions, and experiments with AI. This isn’t just a collection of repos; it’s a living log of what’s possible when AI is used responsibly.
 
-Here, I publish all the themes, code snippets, and solutions I've built with AI. This isn't just a collection of repos; it's a living log of my work, a resource for fellow builders, and a place to showcase what's possible with ethical, powerful AI tools.
+---
 
------
+## Your AI Toolkit: Quick Reference
 
-## Your AI Toolkit: A Starting Guide
+A curated list of AI models and platforms I use personally:
 
-If you're new to AI-driven development or just want to see what tools are out there, I've compiled a quick reference guide to the key players in the AI space. These are the tools I use and trust for my own projects.
-
-| AI Model/Platform | Description & Use Case | Official Documentation & API |
+| AI Model/Platform | Description & Use Case | Official Docs & API |
 | :--- | :--- | :--- |
-| **Google Gemini** | A powerful, multimodal AI for complex tasks, from code generation to creative writing. | [Link to Gemini Docs](https://ai.google.dev/docs) |
-| **OpenAI (GPT)** | The standard-bearer for conversational AI, well-known for its strong language and coding capabilities. | [Link to OpenAI Docs](https://platform.openai.com/docs/introduction) |
-| **Mistral AI** | A European company known for its focus on highly efficient and open models. Great for performance-sensitive tasks. | [Link to Mistral Docs](https://docs.mistral.ai/) |
-| **Deepseek** | A strong, open-source model with a focus on code and programming-related tasks. | [Link to Deepseek GitHub](https://github.com/deepseek-ai) |
-| **Anthropic (Claude)** | Known for its ethical principles and long context windows, excellent for analyzing long documents or books. | [Link to Claude Docs](https://docs.anthropic.com/) |
-| **Llama (Meta)** | A series of open-source models released by Meta, popular for local development and research. | [Link to Llama Docs](https://www.google.com/search?q=https://llama.meta.com/llama3) |
+| **Google Gemini** | Multimodal AI for complex tasks: code generation, creative writing, analysis. | [Gemini Docs](https://ai.google.dev/docs) |
+| **OpenAI GPT** | Standard for conversational AI; strong in language understanding & coding. | [OpenAI Docs](https://platform.openai.com/docs/introduction) |
+| **Mistral AI** | Highly efficient, open European AI models; ideal for performance-sensitive tasks. | [Mistral Docs](https://docs.mistral.ai/) |
+| **Deepseek** | Open-source AI for coding & programming-focused tasks. | [Deepseek GitHub](https://github.com/deepseek-ai) |
+| **Anthropic (Claude)** | Ethical AI with long-context windows, great for long documents/books. | [Claude Docs](https://docs.anthropic.com/) |
+| **LLaMA (Meta)** | Open-source models for local dev & research; popular in academia & hobby projects. | [LLaMA Docs](https://ai.meta.com/llama/) |
 
-
------
+---
 
 ## Philosophy & Projects
 
-My work here follows a simple rule: **Code with purpose, build with ethics.**
+**Rule #1:** Code with purpose, build with ethics.  
 
-I believe AI is a tool, and like any tool, it's about how you use it. From building the sleek **Hosting** theme to crafting security best practices, every project is a step towards a more transparent and responsible digital future.
+I treat AI as a tool. How you use it defines its impact. Every project—from sleek **Hosting themes** to security best practices—is a step toward a transparent, responsible digital future.
 
-Let's build something great together.
+---
 
------
+## Featured Projects & Resources
 
-**AiCodecraft - AI with Ethics and Excellence**
+- [Python Modules Overview](https://github.com/VolkanSah/Python-Modules-Overview/) – Handy reference for modules & dependencies  
+- Soon more curated AI & dev resources… stay tuned! 👼
+
+---
+
+**AiCodecraft - AI with Ethics and Excellence**  
 > Crafted with Love, Driven by AI. ✨
 
-Need a break from AI-driven projects? Find my human-only work here: [Volkan Sah](https://volkan.github.com) just for a :star: 😙 
-
-### Have a look on this it will help you!
-- [Python-Modules-Overview](https://github.com/VolkanSah/Python-Modules-Overview/)
-- soon more, sorry 👼
+Need a break from AI? Check out my human-only work: [Volkan Sah](https://volkan.github.com) ⭐
